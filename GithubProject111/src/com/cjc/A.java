@@ -12,5 +12,9 @@ public class A {
   public void m1()
   {
   }
+  public void m3()
+  {
+    System.out.println("Hello");
+  }
 
 }
